@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="ContactUs.positive_scenarios"
+    errors="0" failures="0" hostname="" id="" package="ContactUs" skipped="0"
+    tests="5" time="14.87" timestamp="">
+  
+    <testcase name="YOMACS-1: Navigate Contact Us page" classname="ContactUs.positive_scenarios" time="0.8090" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-2: Click Inquiry Form and verify able to navigate the correct Application Inquiry form page" classname="ContactUs.positive_scenarios" time="0.8650" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-3: Fill the necessary information in Application Inquiry form and submit" classname="ContactUs.positive_scenarios" time="4.271" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-4: Verify FAQ" classname="ContactUs.positive_scenarios" time="0.3430" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-5: Verify &#34;Shared Rental Experiences&#34;" classname="ContactUs.positive_scenarios" time="0.2670" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

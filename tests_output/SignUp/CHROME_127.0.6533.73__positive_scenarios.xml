@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="SignUp.positive_scenarios"
+    errors="0" failures="0" hostname="" id="" package="SignUp" skipped="0"
+    tests="4" time="42.10" timestamp="">
+  
+    <testcase name="YOMACS-10: Navigate Sign Up page" classname="SignUp.positive_scenarios" time="5.234" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-11: Successful Sign-Up with Valid Data" classname="SignUp.positive_scenarios" time="6.738" assertions="0">
+    </testcase>
+  
+    <testcase name="YOMACS-12: Pass Show Hide behavior when click Eye icon" classname="SignUp.positive_scenarios" time="3.581" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="YOMACS-13: SignUp with Special Characters and Numeric in Username" classname="SignUp.positive_scenarios" time="4.656" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
